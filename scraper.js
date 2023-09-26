@@ -3,7 +3,7 @@ const puppeteer = require('puppeteer');
 
 
 const app = express();
-const port = 4000;
+const port = 4000 || process.env.PORT;
 
 app.use(express.json());
 
