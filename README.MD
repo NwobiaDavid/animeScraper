@@ -72,7 +72,3 @@ To set up and run the application, follow these steps:
 ## Documentation
 
 The full documentation/guide on how to use the api is located at [DOCUMENTATION.MD](DOCUMENTATION.MD).
-
----
-
-Feel free to customize the README to include more details about your project, usage examples, and any additional information that might be helpful to users and contributors.
